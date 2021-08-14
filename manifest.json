@@ -37,6 +37,12 @@
       "example": "domain.org"
     },
     {
+      "name": "path",
+      "type": "path",
+      "example": "/easyappointments",
+      "default": "/easyappointments"
+    },
+    {
       "name": "is_public",
       "type": "boolean",
       "default": true
